@@ -5,7 +5,9 @@ This repo attempts to reproduce [Encoder-Decoder with Atrous Separable Convoluti
  [rishizek DeepLabv3 implementation](https://github.com/rishizek/tensorflow-deeplab-v3-plus),
  which was originally based on
  [DrSleep's DeepLab v2 implemantation](https://github.com/DrSleep/tensorflow-deeplab-resnet)       
- and [tensorflow models Resnet implementation](https://github.com/tensorflow/models/tree/master/official/resnet).                         1.ori    
+ and [tensorflow models Resnet implementation](https://github.com/tensorflow/models/tree/master/official/resnet).  
+                                                                                                                                            
+ 1.ori    
  ![ori](https://github.com/betterhalfwzm/Prostate-TRUS-image-segmentation-based-on-deeplab/blob/master/result/1099.png)                    
 2.Seg                                                                                                                                      
  ![ori](https://github.com/betterhalfwzm/Prostate-TRUS-image-segmentation-based-on-deeplab/blob/master/result/1099_mask.png)                
